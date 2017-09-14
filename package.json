@@ -1,0 +1,24 @@
+{
+  "name": "mixpanel-mock",
+  "version": "1.0.0",
+  "description": "Mock for mixpanel (Used with karma/jasmine)",
+  "main": "mixpanel-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jQrgen/mixpanel-mock.git"
+  },
+  "keywords": [
+    "mixpanel",
+    "mock",
+    "mocks"
+  ],
+  "author": "Jørgen Svennevik Notland + https://gist.github.com/ArtturiSipila/8330f4421d8db3157aa7",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/jQrgen/mixpanel-mock/issues"
+  },
+  "homepage": "https://github.com/jQrgen/mixpanel-mock#readme"
+}
