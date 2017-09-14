@@ -1,4 +1,4 @@
-**
+/**
  * Mixpanel full API Mock - 28.8.2015
  * Author: @ArtturiSipila
  * https://mixpanel.com/help/reference/javascript-full-api-reference
